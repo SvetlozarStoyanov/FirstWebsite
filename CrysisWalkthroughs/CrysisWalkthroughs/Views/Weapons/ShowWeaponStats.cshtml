@@ -1,0 +1,90 @@
+﻿@model CrysisWalkthroughs.Models.WeaponModel
+
+<style>
+	body, html {
+		height: 100%;
+		width: 100%;
+		margin: 0;
+		background-image: url("/img/Weapons/View Weapon Background.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-attachment: fixed;
+		margin-bottom: 60px;
+		color: #777;
+		position: relative;
+		min-height: 100%;
+		font-size: 14px;
+		overflow: hidden;
+	}
+
+	.paragraph-styling {
+		position: relative;
+		top: 200px;
+		font-size: 33px;
+		color: white;
+		background: black;
+		opacity: 0.6;
+	}
+
+	.link-styling {
+		margin: auto;
+		position: absolute;
+		text-align: center;
+		top: 50px;
+		right: 520px;
+		width: 50%;
+		height: auto;
+		font-size: 80px;
+		color: black;
+		padding: 10px;
+	}
+
+	.title-styling {
+		margin: auto;
+		position: absolute;
+		text-align: center;
+		top: 200px;
+		background: black;
+		opacity: 0.6;
+		right: 520px;
+		width: 50%;
+		height: auto;
+		font-size: 40px;
+		color: White;
+		padding: 10px;
+	}
+
+	.image-styling {
+		width: 500px;
+		height: 300px;
+		background: rgb(0,0,0,0.6);
+	}
+
+	.image-background {
+		margin: auto;
+		position: relative;
+		text-align: center;
+		top: 300px;
+		right: 38.5px;
+		width: 50%;
+	}
+
+</style>
+
+
+<body>
+	@{
+		string[] imageNames = { "Pistol.png", "AY-69.png", "SCAR.png", "FY-71.png", "Shotgun.png", "SMG.png", "Precision Rifle.png", "Gauss Rifle.png", "Minigun.png", "MOAC.png", "Rocket Launcher.png", "Grenade Launcher FGL.png", "C4.png", "Claymore.png", "Mine.png", "Grenade.png", "EMP.png", "Flashbang.png", "Smoke.png", "Fists.png" };
+	}
+ <div class="paragraph-styling">
+		@Html.DisplayFor(model => model.Description)
+ </div>
+ <div class="link-styling">
+  <a asp-action="Index">Weapon List</a>
+ </div>
+
+ <div class="image-background">
+  <img class="image-styling" src="~/img/Weapons/@imageNames[Model.Id]" />
+ </div>
+
+</body>

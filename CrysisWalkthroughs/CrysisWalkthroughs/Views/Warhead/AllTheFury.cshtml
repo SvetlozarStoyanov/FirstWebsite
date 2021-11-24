@@ -1,0 +1,121 @@
+﻿@{
+	ViewData["Title"] = "AllTheFury";
+}
+
+<html>
+<head>
+ <style type="text/css">
+  body, html {
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   background-image: url("/img/Warhead Backgrounds/All The Fury.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   margin-bottom: 60px;
+   color: #777;
+   position: relative;
+   min-height: 100%;
+   font-size: 14px;
+   overflow: hidden;
+  }
+
+  .link-style {
+   padding: 0;
+   background: rgb(255,255,255,0.5);
+   outline: none;
+   position: absolute;
+   right: 830px;
+   top: 70px;
+   height: auto;
+   font-size: 70px;
+   color: black;
+  }
+
+   .link-style:hover {
+	background: rgb(255,255,255,0.6);
+   }
+
+  .level-next {
+   padding: 0;
+   background: rgb(255,255,255,0.5);
+   outline: none;
+   position: absolute;
+   right: 16px;
+   top: 70px;
+   height: auto;
+   font-size: 70px;
+   color: black;
+  }
+
+   .level-next:hover {
+	background: rgb(255,255,255,0.6);
+   }
+
+  .level-last {
+   padding: 0;
+   background: rgb(255,255,255,0.5);
+   outline: none;
+   position: absolute;
+   left: 16px;
+   top: 70px;
+   height: auto;
+   font-size: 70px;
+   color: black;
+  }
+
+   .level-last:hover {
+	background: rgb(255,255,255,0.6);
+   }
+
+  .paragraph-styling {
+   position: relative;
+   right: 10px;
+   top: 200px;
+   font-size: 33px;
+   color: white;
+   background: black;
+   opacity: 0.6;
+  }
+
+  .iframe-video {
+   margin: auto;
+   position: relative;
+   text-align: left;
+   top: 250px;
+   right: 20px;
+  }
+
+  .iframe-video-2 {
+   margin: auto;
+   position: relative;
+   text-align: right;
+   top: -70px;
+   right: -560px;
+  }
+ </style>
+</head>
+<body>
+ <form>
+  <div>
+   <button class="link-style" type="submit" asp-action="Index">Level List</button>
+  </div>
+  <div>
+   <button class="level-last" type="submit" asp-action="FromHellsHeart">&larr;Last Level</button>
+  </div>
+ </form>
+ <p class="paragraph-styling">
+  The final level of Crysis Warhead. It is about Psycho's mission to capture the Container before leaving the island to the USS Constitution.
+ </p>
+ <span class="iframe-video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/fOmOEoxncT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </span>
+ <span class="iframe-video-2">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/B_K4Q-ptb5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </span>
+</body>
+</html>
+
+
+

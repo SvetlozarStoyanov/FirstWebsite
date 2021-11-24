@@ -1,0 +1,118 @@
+﻿@{
+	ViewData["Title"] = "Index";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <style type="text/css">
+  body, html {
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   background-image: url("/img/Crysis Backgrounds/CrysisWallpaper.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   margin-bottom: 60px;
+   color: #777;
+   position: relative;
+   min-height: 100%;
+   font-size: 14px;
+   overflow: hidden;
+  }
+
+  .header-style {
+   color: black;
+  }
+
+
+  .buttons-styling {
+   color: firebrick;
+   font-size: 40px;
+   left: 100px;
+   text-align: left;
+  }
+
+  .ice-levels-styling {
+   background-color: rgb(255,255,255,0.6);
+   color: black;
+  }
+
+   .ice-levels-styling:hover {
+	background: url("/img/Level Lists/Ice Particles.jpg");
+	color: white;
+   }
+
+  .jungle-levels-styling {
+   background-color: rgb(255,255,255,0.6);
+   color: black;
+  }
+
+   .jungle-levels-styling:hover {
+	background: url("/img/Level Lists/Jungle.jpg");
+	color: navajowhite;
+   }
+
+  .dual-levels-styling {
+   background-color: rgb(255,255,255,0.6);
+   color: black;
+  }
+
+   .dual-levels-styling:hover {
+	background: url("/img/Level Lists/Dual Jungle.jpg");
+	color: navajowhite;
+   }
+
+  .sea-levels-styling {
+   background-color: rgb(255,255,255,0.6);
+   color: black;
+  }
+
+   .sea-levels-styling:hover {
+	background: url("/img/Level Lists/Ocean At Night.jpg");
+	color: navajowhite;
+   }
+ </style>
+</head>
+<body>
+ <h1 class="header-style">Mission List</h1>
+ <form class="buttons-styling">
+  <div>
+   <button class="jungle-levels-styling btn-outline-light" asp-action="Contact" type="submit">Contact</button>
+  </div>
+  <div>
+   <button class="jungle-levels-styling btn-outline-light" asp-action="Recovery" type="submit">Recovery</button>
+  </div>
+  <div>
+   <button class="jungle-levels-styling btn-outline-light" asp-action="Relic" type="submit">Relic</button>
+  </div>
+  <div>
+   <button class="jungle-levels-styling btn-outline-light" asp-action="Assault" type="submit">Assault</button>
+  </div>
+  <div>
+   <button class="jungle-levels-styling btn-outline-light" asp-action="Onslaught" type="submit">Onslaught</button>
+  </div>
+  <div>
+   <button class="jungle-levels-styling btn-outline-light" asp-action="Awakening" type="submit">Awakening</button>
+  </div>
+  <div>
+   <button class="ice-levels-styling btn-outline-light" asp-action="Core" type="submit">Core</button>
+  </div>
+  <div>
+   <button class="ice-levels-styling btn-outline-light" asp-action="ParadiseLost" type="submit">Paradise Lost</button>
+  </div>
+  <div>
+   <button class="dual-levels-styling btn-outline-light" asp-action="Exodus" type="submit">Exodus</button>
+  </div>
+  <div>
+   <button class="dual-levels-styling btn-outline-light" asp-action="Ascension" type="submit">Ascension</button>
+  </div>
+  <div>
+   <button class="sea-levels-styling btn-outline-light" asp-action="Reckoning" type="submit">Reckoning</button>
+  </div>
+ </form>
+</body>
+</html>
+
+

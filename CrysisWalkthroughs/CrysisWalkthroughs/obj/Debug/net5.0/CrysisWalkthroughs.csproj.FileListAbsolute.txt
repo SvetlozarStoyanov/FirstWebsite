@@ -1,0 +1,274 @@
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\appsettings.json
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.exe
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.deps.json
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.runtimeconfig.json
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.runtimeconfig.dev.json
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ref\CrysisWalkthroughs.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.pdb
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.Views.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.Views.pdb
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.AssemblyInfo.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\staticwebassets\CrysisWalkthroughs.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\staticwebassets\CrysisWalkthroughs.StaticWebAssets.xml
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\scopedcss\bundle\CrysisWalkthroughs.styles.css
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.TagHelpers.input.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.TagHelpers.output.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorCoreGenerate.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.Views.pdb
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\ref\CrysisWalkthroughs.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.pdb
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.genruntimeconfig.cache
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.csproj.CopyComplete
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Index.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Contact.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Recovery.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Ascension.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Assault.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Awakening.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Core.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Exodus.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Onslaught.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\ParadiseLost.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Relic.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Reckoning.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\Index.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\CallMeIshmael.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\AdaptOrPerish.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\AllTheFury.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\BelowTheThunder.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\FromHellsHeart.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\FrozenParadise.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\ShoreLeave.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Weapons\Index.cshtml.g.cs
+C:\Users\User\source\repos\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Weapons\ShowWeaponStats.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\appsettings.Development.json
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\appsettings.json
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.exe
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.deps.json
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.runtimeconfig.json
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.runtimeconfig.dev.json
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ref\CrysisWalkthroughs.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.pdb
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.Views.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.Views.pdb
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Humanizer.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.csproj.AssemblyReference.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.AssemblyInfoInputs.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.AssemblyInfo.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.csproj.CoreCompileInputs.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.MvcApplicationPartsAssemblyInfo.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorAssemblyInfo.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorAssemblyInfo.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\staticwebassets\CrysisWalkthroughs.StaticWebAssets.Manifest.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\staticwebassets\CrysisWalkthroughs.StaticWebAssets.xml
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\scopedcss\bundle\CrysisWalkthroughs.styles.css
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.TagHelpers.input.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.TagHelpers.output.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorCoreGenerate.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Ascension.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Assault.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Awakening.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Contact.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Core.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Exodus.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Index.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Onslaught.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\ParadiseLost.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Reckoning.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Recovery.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Crysis\Relic.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\AdaptOrPerish.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\AllTheFury.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\BelowTheThunder.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\CallMeIshmael.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\FromHellsHeart.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\FrozenParadise.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\Index.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Warhead\ShoreLeave.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Weapons\Index.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Weapons\ShowWeaponStats.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorTargetAssemblyInfo.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorTargetAssemblyInfo.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.Views.pdb
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.csproj.CopyComplete
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\ref\CrysisWalkthroughs.dll
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.pdb
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.genruntimeconfig.cache

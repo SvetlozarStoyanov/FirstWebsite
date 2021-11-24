@@ -1,0 +1,104 @@
+﻿@{
+	ViewData["Title"] = "Index";
+}
+
+<html>
+<head>
+ <style type="text/css">
+  body, html {
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   background-image: url("/img/Warhead Backgrounds/Warhead Wallpaper.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   margin-bottom: 60px;
+   color: #777;
+   position: relative;
+   min-height: 100%;
+   font-size: 14px;
+   overflow: hidden;
+  }
+
+  .header-style {
+   color: red;
+  }
+
+  .buttons-styling {
+   color: firebrick;
+   font-size: 40px;
+   left: 100px;
+   text-align: left;
+  }
+
+  .ice-levels-styling {
+   background-color: rgb(255,255,255,0.6);
+   color: black;
+  }
+
+   .ice-levels-styling:hover {
+	background: url("/img/Level Lists/Ice Particles.jpg");
+	color: white;
+   }
+
+  .jungle-levels-styling {
+   background-color: rgb(255,255,255,0.6);
+   color: black;
+  }
+
+   .jungle-levels-styling:hover {
+	background: url("/img/Level Lists/Jungle.jpg");
+	color: navajowhite;
+   }
+
+  .dual-levels-styling {
+   background-color: rgb(255,255,255,0.6);
+   color: black;
+  }
+
+   .dual-levels-styling:hover {
+	background: url("/img/Level Lists/Dual Jungle.jpg");
+	color: navajowhite;
+   }
+
+  .mine-levels-styling {
+   background-color: rgb(255,255,255,0.6);
+   color: black;
+  }
+
+   .mine-levels-styling:hover {
+	background: url("/img/Level Lists/Mine Background.jpg");
+	color: navajowhite;
+   }
+ </style>
+</head>
+<body>
+ <h1 class="header-style">Mission List</h1>
+ <form class="buttons-styling">
+  <div>
+   <button class="jungle-levels-styling btn-outline-dark" asp-action="CallMeIshmael">Call me Ishmael</button>
+  </div>
+  <div>
+   <button class="jungle-levels-styling btn-outline-dark" asp-action="ShoreLeave">Shore Leave</button>
+  </div>
+  <div>
+   <button class="ice-levels-styling btn-outline-dark" asp-action="AdaptOrPerish">Adapt or Perish</button>
+  </div>
+  <div>
+   <button class="ice-levels-styling btn-outline-dark" asp-action="FrozenParadise">Frozen Paradise</button>
+  </div>
+  <div>
+   <button class="mine-levels-styling btn-outline-dark" asp-action="BelowTheThunder">Below the Thunder</button>
+  </div>
+  <div>
+   <button class="jungle-levels-styling btn-outline-dark" asp-action="FromHellsHeart">From Hell's Heart</button>
+  </div>
+  <div>
+   <button class="jungle-levels-styling btn-outline-dark" asp-action="AllTheFury">All the Fury</button>
+  </div>
+ </form>
+</body>
+</html>
+
+

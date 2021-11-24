@@ -1,0 +1,112 @@
+﻿@{
+	ViewData["Title"] = "AdaptOrPerish";
+}
+
+<html>
+<head>
+ <style type="text/css">
+  body, html {
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   background-image: url("/img/Warhead Backgrounds/Adapt Or Perish.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-attachment: fixed;
+   margin-bottom: 60px;
+   color: #777;
+   position: relative;
+   min-height: 100%;
+   font-size: 14px;
+   overflow: hidden;
+  }
+
+  .link-style {
+   padding: 0;
+   background: rgb(255,255,255,0.5);
+   outline: none;
+   position: absolute;
+   right: 830px;
+   top: 70px;
+   height: auto;
+   font-size: 70px;
+   color: black;
+  }
+
+   .link-style:hover {
+	background: rgb(255,255,255,0.6);
+   }
+
+  .level-next {
+   padding: 0;
+   background: rgb(255,255,255,0.5);
+   outline: none;
+   position: absolute;
+   right: 16px;
+   top: 70px;
+   height: auto;
+   font-size: 70px;
+   color: black;
+  }
+
+   .level-next:hover {
+	background: rgb(255,255,255,0.6);
+   }
+
+  .level-last {
+   padding: 0;
+   background: rgb(255,255,255,0.5);
+   outline: none;
+   position: absolute;
+   left: 16px;
+   top: 70px;
+   height: auto;
+   font-size: 70px;
+   color: black;
+  }
+
+   .level-last:hover {
+	background: rgb(255,255,255,0.6);
+   }
+
+  .paragraph-styling {
+   position: relative;
+   right: 10px;
+   top: 200px;
+   font-size: 33px;
+   color: white;
+   background: black;
+   opacity: 0.6;
+  }
+
+  .iframe-video {
+   margin: auto;
+   position: relative;
+   text-align: center;
+   top: 250px;
+   right: 19px;
+  }
+ </style>
+</head>
+<body>
+ <form>
+  <div>
+   <button class="link-style" type="submit" asp-action="Index">Level List</button>
+  </div>
+  <div>
+   <button class="level-next" type="submit" asp-action="FrozenParadise">Next Level&rarr;</button>>
+  </div>
+  <div>
+   <button class="level-last" type="submit" asp-action="ShoreLeave">&larr;Last Level</button>
+  </div>
+ </form>
+ <p class="paragraph-styling">
+  The third level of Crysis Warhead. It centers about Psycho waking up in the frozen part of island, going on pursuit for the container and teaming up with Eagle Team to complete their mission.
+ </p>
+ <div class="iframe-video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vZA-MzliJUU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
+</body>
+</html>
+
+
