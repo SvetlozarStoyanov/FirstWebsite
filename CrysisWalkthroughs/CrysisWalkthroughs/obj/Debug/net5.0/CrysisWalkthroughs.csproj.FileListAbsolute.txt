@@ -142,7 +142,6 @@ D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\Crysi
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.runtimeconfig.json
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.runtimeconfig.dev.json
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.dll
-D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\ref\CrysisWalkthroughs.dll
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.pdb
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.Views.dll
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\bin\Debug\net5.0\CrysisWalkthroughs.Views.pdb
@@ -231,7 +230,6 @@ D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Crysi
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorAssemblyInfo.cache
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.RazorAssemblyInfo.cs
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\staticwebassets\CrysisWalkthroughs.StaticWebAssets.Manifest.cache
-D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\staticwebassets\CrysisWalkthroughs.StaticWebAssets.xml
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\scopedcss\bundle\CrysisWalkthroughs.styles.css
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.TagHelpers.input.cache
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.TagHelpers.output.cache
@@ -272,3 +270,7 @@ D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Crysi
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\ref\CrysisWalkthroughs.dll
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.pdb
 D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\CrysisWalkthroughs.genruntimeconfig.cache
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Attachment\ShowAttachment.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Weapons\FilterWeaponsByAttachment.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\Razor\Views\Weapons\FilterIndex.cshtml.g.cs
+D:\Git Repositories\CrysisWalkthroughs\CrysisWalkthroughs\obj\Debug\net5.0\refint\CrysisWalkthroughs.dll

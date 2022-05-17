@@ -8,8 +8,9 @@ namespace CrysisWalkthroughs.Services
 {
     public interface IWeaponDataSample
     {
-        List<WeaponModel> GetAllWeapons();
+        Dictionary<string,WeaponModel> GetAllWeapons();
         WeaponModel GetWeaponById(int Id);
-
+        WeaponModel GetWeaponByName(string Name);
+        Dictionary<string, WeaponModel> GetAllWeaponsWithAttachment(string attachmentName);
     }
 }

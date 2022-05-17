@@ -4243,20 +4243,39 @@ input[type="button"].btn-block {
     list-style: none;
 }
 
-.nav-link {
+.site-title {
+    right:100px;
+    font-size: 35px;
+    color: white;
+}
+
+    .site-title:hover {
+        color: wheat;
+        text-decoration:none;
+    }
+
+.nav-link-custom {
+    font-size: 20px;
+    color: white;
     display: block;
     padding: 0.5rem 1rem;
 }
 
-    .nav-link:hover, .nav-link:focus {
+    .nav-link-custom:hover {
+        color: navajowhite;
         text-decoration: none;
     }
 
-    .nav-link.disabled {
-        color: #6c757d;
-        pointer-events: none;
-        cursor: default;
-    }
+
+.nav-link:focus {
+    text-decoration: none;
+}
+
+.nav-link.disabled {
+    color: #6c757d;
+    pointer-events: none;
+    cursor: default;
+}
 
 .nav-tabs {
     border-bottom: 1px solid #dee2e6;
@@ -4376,15 +4395,26 @@ input[type="button"].btn-block {
     list-style: none;
 }
 
-    .navbar-nav .nav-link {
-        padding-right: 0;
-        padding-left: 0;
+.navbar-nav {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.nav-link {
+    color: white;
+    text-align: center;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+    .nav-link:hover {
+        color: black;
     }
 
-    .navbar-nav .dropdown-menu {
-        position: static;
-        float: none;
-    }
+.navbar-nav .dropdown-menu {
+    position: static;
+    float: none;
+}
 
 .navbar-text {
     display: inline-block;

@@ -4,7 +4,7 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>@ViewData["Title"] - CrysisWalkthroughs</title>
-	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
 	<link rel="stylesheet" href="~/css/site.css" />
 	<style>
 		.navbar-customization {
@@ -21,27 +21,29 @@
 			word-break: break-all;
 			transform: scale(1,1);
 		}
+		
+
 	</style>
 </head>
 <body>
 	<header>
 		<nav class="navbar navbar-customization navbar-expand-sm navbar-toggleable-sm navbar-light bg-transparent border-bottom box-shadow mb-3  ">
 			<div class="container">
-				<a class=" text-white" asp-area="" asp-controller="Home" asp-action="Index">CrysisWalkthroughs</a>
+				<a class="site-title" asp-area="" asp-controller="Home" asp-action="Index">CrysisWalkthroughs</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
 						aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
 				</button>
 				<div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-					<ul class="navbar-nav flex-grow-1">
+					<ul class="navbar-nav flex-grow-1 ">
 						<li class="nav-item">
-							<a class="nav-link text-white" asp-area="" asp-controller="Crysis" asp-action="Index">Crysis</a>
+							<a class="nav-link-custom" asp-area="" asp-controller="Crysis" asp-action="Index">Crysis</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link text-white" asp-area="" asp-controller="Warhead" asp-action="Index">Warhead</a>
+							<a class="nav-link-custom" asp-area="" asp-controller="Warhead" asp-action="Index">Warhead</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link text-white" asp-area="" asp-controller="Weapons" asp-action="Index">Weapons</a>
+							<a class="nav-link-custom" asp-area="" asp-controller="Weapons" asp-action="Index">Weapons</a>
 						</li>
 					</ul>
 				</div>

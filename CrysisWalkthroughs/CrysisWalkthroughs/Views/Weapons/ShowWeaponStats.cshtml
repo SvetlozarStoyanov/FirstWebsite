@@ -1,90 +1,198 @@
 ﻿@model CrysisWalkthroughs.Models.WeaponModel
 
+@{
+    string[] imageNames = { "Pistol.png", "AY69.png", "SCAR.png", "FY71.png", "Shotgun.png", "SMG.png", "Precision Rifle.png", "Gauss Rifle.png", "Minigun.png", "Alien Gun.png", "Rocket Launcher.png", "Grenade Launcher.png", "C4.png", "Claymore.png", "Mine.png", "Grenade.png", "EMP.png", "Flashbang.png", "Smoke.png", "Fists.png" };
+}
+@{
+    string[] soundNames = { "Pistol.mp3", "AY69.mp3", "SCAR.mp3", "FY71.mp3", "Shotgun.mp3", "SMG.mp3", "Precision Rifle.mp3", "Gauss Rifle.mp3", "Minigun.mp3", "Alien Gun.mp3", "Rocket Launcher.mp3", "Grenade Launcher.mp3", "C4.mp3", "Claymore.mp3", "Mine.mp3", "Grenade.mp3", "EMP.mp3", "Flashbang.mp3", "Smoke.mp3", "Fists.mp3" };
+}
 <style>
-	body, html {
-		height: 100%;
-		width: 100%;
-		margin: 0;
-		background-image: url("/img/Weapons/View Weapon Background.jpg");
-		background-repeat: no-repeat;
-		background-size: cover;
-		background-attachment: fixed;
-		margin-bottom: 60px;
-		color: #777;
-		position: relative;
-		min-height: 100%;
-		font-size: 14px;
-		overflow: hidden;
-	}
+    body, html {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        background-image: url("/img/Weapons/View Weapon Background.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        margin-bottom: 60px;
+        color: #777;
+        position: relative;
+        min-height: 100%;
+        font-size: 14px;
+        overflow: visible;
+    }
 
-	.paragraph-styling {
-		position: relative;
-		top: 200px;
-		font-size: 33px;
-		color: white;
-		background: black;
-		opacity: 0.6;
-	}
+    .paragraph-styling {
+        position: relative;
+        border: 3px solid green;
+        margin: auto;
+        display: block;
+        top: 200px;
+        font-size: 33px;
+        color: white;
+        background: rgb(0,0,0,0.4);
+    }
 
-	.link-styling {
-		margin: auto;
-		position: absolute;
-		text-align: center;
-		top: 50px;
-		right: 520px;
-		width: 50%;
-		height: auto;
-		font-size: 80px;
-		color: black;
-		padding: 10px;
-	}
+    .link-styling {
+        margin: auto;
+        position: absolute;
+        text-align: center;
+        text-decoration: none;
+        border: 3px solid green;
+        top: 80px;
+        right: 750px;
+        width: 20%;
+        height: auto;
+        font-size: 50px;
+        color: whitesmoke;
+        padding: 10px;
+        background: rgb(0,0,0,0.4);
+        background-clip: border-box;
+    }
 
-	.title-styling {
-		margin: auto;
-		position: absolute;
-		text-align: center;
-		top: 200px;
-		background: black;
-		opacity: 0.6;
-		right: 520px;
-		width: 50%;
-		height: auto;
-		font-size: 40px;
-		color: White;
-		padding: 10px;
-	}
+        .link-styling:hover {
+            color: gold;
+            text-decoration: none;
+            border: 3px solid gold;
+        }
 
-	.image-styling {
-		width: 500px;
-		height: 300px;
-		background: rgb(0,0,0,0.6);
-	}
+        .link-styling:active {
+            color: cadetblue;
+            text-decoration: none;
+            border: 3px solid cadetblue;
+        }
 
-	.image-background {
-		margin: auto;
-		position: relative;
-		text-align: center;
-		top: 300px;
-		right: 38.5px;
-		width: 50%;
-	}
+    .line-break {
+        flex-basis: 100%;
+        height: 0;
+    }
+
+
+    .image-styling {
+        width: 500px;
+        margin: auto;
+        display: block;
+        height: 300px;
+        border: 3px solid green;
+        background: rgb(0,0,0,0.4);
+        padding: 10px;
+    }
+
+    .image-background {
+        top: 250px;
+        position: center;
+        position: relative;
+    }
+
+    .attachment-section {
+        position: relative;
+        text-align: left;
+        top: 300px;
+        background: rgb(0,0,0,0.4);
+        background-clip: content-box;
+        border: 3px solid green;
+    }
+
+    .attachment-title {
+        font-size: 50px;
+        text-align: left;
+        position: relative;
+        color: yellow;
+        text-decoration: none;
+    }
+
+        .attachment-title:hover {
+            text-decoration: none;
+            color: yellow;
+        }
+
+    .attachment-element-title {
+        font-size: 20px;
+        text-align: left;
+        position: relative;
+        color: gold;
+        text-decoration: none;
+    }
+
+    .attachment-element {
+        font-size: 20px;
+        text-align: left;
+        position: relative;
+        color: gold;
+        text-decoration: none;
+    }
+
+        .attachment-element:hover {
+            color: #ffb101;
+            text-decoration: none;
+        }
+
+        .attachment-element:active {
+            color: cadetblue;
+            text-decoration: none;
+        }
+
+    .weapon-sound-button {
+        position: relative;
+        justify-content: center;
+        display: block;
+    }
+
+    .weapon-sound-button-styling {
+        background: rgb(0,0,0,0.4);
+        border: 3px solid green;
+        font-size: 30px;
+        text-decoration: none;
+        color: whitesmoke;
+    }
+
+        .weapon-sound-button-styling:hover {
+            color: gold;
+            text-decoration: none;
+            border: 3px solid gold;
+        }
 
 </style>
 
 
 <body>
-	@{
-		string[] imageNames = { "Pistol.png", "AY-69.png", "SCAR.png", "FY-71.png", "Shotgun.png", "SMG.png", "Precision Rifle.png", "Gauss Rifle.png", "Minigun.png", "MOAC.png", "Rocket Launcher.png", "Grenade Launcher FGL.png", "C4.png", "Claymore.png", "Mine.png", "Grenade.png", "EMP.png", "Flashbang.png", "Smoke.png", "Fists.png" };
-	}
- <div class="paragraph-styling">
-		@Html.DisplayFor(model => model.Description)
- </div>
- <div class="link-styling">
-  <a asp-action="Index">Weapon List</a>
- </div>
+    <div class="paragraph-styling">
+        @Html.DisplayFor(model => model.Description)
+    </div>
+    <div>
+        <a class="link-styling" onclick="history.go(-1); return false;" href="#">Weapon List</a>
+    </div>
 
- <div class="image-background">
-  <img class="image-styling" src="~/img/Weapons/@imageNames[Model.Id]" />
- </div>
+    <div class="image-background">
+        <img class="image-styling" src="~/img/Weapons/@imageNames[Model.Id]" />
+    </div>
+    <div class="weapon-sound-button">
+        <audio id="player" src="~/sound/Weapon Sounds/@soundNames[Model.Id]"></audio>
+        <button class="weapon-sound-button-styling" onclick="document.getElementById('player').play()">Weapon Sound</button>
+    </div>
+    <div>
+        @{
+            @if (Model.Attachments != null)
+            {
+                <div class="attachment-section">
+                    <h1 class="attachment-title"> Available Attachments:</h1>
+                    @foreach (var attachment in Model.Attachments)
+                    {
+
+                        <div class="attachment-element-title">
+                            <a>@attachment.Key</a> -
+                            @for (int i = 0; i < attachment.Value.Count; i++)
+                            {
+                                string name = attachment.Value[i];
+                                <a class="attachment-element" href="@Url.Action("ShowAttachment","Attachment", new {name})"> @attachment.Value[i]</a>
+                            }
+                        </div>
+                        <div class="line-break"></div>
+                    }
+                </div>
+            }
+        }
+    </div>
 
 </body>

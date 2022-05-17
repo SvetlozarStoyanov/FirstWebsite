@@ -1,106 +1,167 @@
-﻿@model IEnumerable<CrysisWalkthroughs.Models.WeaponModel>
+﻿@model Dictionary<string,CrysisWalkthroughs.Models.WeaponModel>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<style type="text/css">
-		body, html {
-			height: 100%;
-			width: 100%;
-			margin: 0;
-			background-image: url("/img/Weapons/Weapons Background.jpg");
-			background-repeat: no-repeat;
-			background-size: cover;
-			background-attachment: fixed;
-			margin-bottom: 60px;
-			color: #777;
-			position: relative;
-			min-height: 100%;
-			font-size: 14px;
-			overflow: hidden;
-		}
+    <style type="text/css">
+        body, html {
+            height: 100%;
+            width: 100%;
+            margin: 0;
+            background-image: url("/img/Weapons/Weapons.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+            margin-bottom: 60px;
+            color: #777;
+            position: relative;
+            min-height: 100%;
+            font-size: 14px;
+            overflow: hidden;
+        }
 
-		.header-style {
-			color: red;
-		}
+        .header-style {
+            color: red;
+        }
 
-		.game-button {
-			width: 200px;
-			height: 100px;
-		}
 
-		.list-styling {
-			color: firebrick;
-			font-size: 20px;
-		}
 
-		.weapon-button-size {
-			width: 160px;
-		}
+        .game-button:hover {
+            color: gold;
+        }
 
-		.game-button-image {
-			width: 20%;
-			color: gold;
-		}
+        .list-styling {
+            color: firebrick;
+            font-size: 20px;
+        }
 
-		.line-break {
-			flex-basis: 100%;
-			height: 0;
-		}
+        .weapon-button-size {
+            width: 160px;
+        }
 
-		.weapon-zone {
-			display: flex;
-			flex-wrap: wrap;
-			position:relative;
-			border: none;
-			text-align: center;
-			top: 200px;
-		}
+        .game-button {
+            width: 200px;
+            height: 100px;
+        }
 
-		.weapon-label {
-			font-size: 20px;
-			text-align: left;
-		}
+        .game-button-image {
+            width: 20%;
+            color: greenyellow;
+            text-decoration: none;
+            border: 2px solid green;
+            outline: none;
+            background: rgb(0,0,0,0.4);
+        }
 
-		.title-styling {
-			margin: auto;
-			position: absolute;
-			text-align: center;
-			top: 100px;
-			right: 480px;
-			width: 50%;
-			height: auto;
-			font-size: 40px;
-			color: gold;
-			padding: 10px;
-		}
-	</style>
+            .game-button-image:hover {
+                color: gold;
+                text-decoration: none;
+                border: 2px solid gold;
+            }
+
+            .game-button-image:active {
+                color: cadetblue;
+                text-decoration: none;
+                border: 2px solid cadetblue;
+            }
+
+        .line-break {
+            flex-basis: 100%;
+            height: 0;
+        }
+
+        .weapon-zone {
+            display: flex;
+            flex-wrap: wrap;
+            position: relative;
+            border: none;
+            text-align: center;
+            top: 100px;
+            background: none;
+        }
+
+        .weapon-label {
+            font-size: 20px;
+            text-align: left;
+        }
+
+        .title-styling {
+            margin: auto;
+            position: center;
+            text-align: center;
+            top: 100px;
+            right: 480px;
+            width: 50%;
+            height: auto;
+            font-size: 40px;
+            color: whitesmoke;
+            padding: 10px;
+            background: rgb(0,0,0,0.4);
+        }
+
+        .filter-link {
+            position: relative;
+            margin: auto;
+            text-align: center;
+            width: 50%;
+            display: block;
+            top: 50px;
+            padding: 10px;
+            font-size: 40px;
+            border: 3px solid green;
+            text-decoration: none;
+            color: whitesmoke;
+            background: rgb(0,0,0,0.4);
+        }
+
+            .filter-link:hover {
+                color: gold;
+                text-decoration: none;
+                border: 3px solid gold;
+            }
+
+            .filter-link:active {
+                color: cadetblue;
+                text-decoration: none;
+                border: 3px solid cadetblue;
+            }
+    </style>
 
 </head>
 <body>
-	@{
-		string[] imageNames = { "Pistol.png", "AY-69.png", "SCAR.png", "FY-71.png", "Shotgun.png", "SMG.png", "Precision Rifle.png", "Gauss Rifle.png", "Minigun.png", "MOAC.png", "Rocket Launcher.png", "Grenade Launcher FGL.png", "C4.png", "Claymore.png", "Mine.png", "Grenade.png", "EMP.png", "Flashbang.png", "Smoke.png", "Fists.png" };
-	}
- <form>
-  <div class="title-styling">
-   <h1>Click on a weapon to see information</h1>
-  </div>>
-  <div class="weapon-zone">
-			@for (int i = 0; i < Model.Count(); i++)
-			{
-				@if (i % 5 == 0)
-				{
-		   <div class="line-break"></div>
-				}
-	   <a class="game-button-image" href=/weapons/ShowWeaponStats/@Model.ElementAt(i).Id  value="@Model.ElementAt(i).Id" type="submit">
-		<img class="game-button" src="~/img/Weapons/@imageNames[i]" />
-		<div class="weapon-label">
-						@Model.ElementAt(i).Name
-		</div>
-	   </a>
-			}
-  </div>
- </form>
+    @{
+        string[] imageNames = { "Pistol.png", "AY69.png", "SCAR.png", "FY71.png", "Shotgun.png", "SMG.png", "Precision Rifle.png", "Gauss Rifle.png", "Minigun.png", "Alien Gun.png", "Rocket Launcher.png", "Grenade Launcher.png", "C4.png", "Claymore.png", "Mine.png", "Grenade.png", "EMP.png", "Flashbang.png", "Smoke.png", "Fists.png" };
+    }
+
+    <h1 class="title-styling">Click on a weapon to see information</h1>
+    <form>
+        <div>
+            <a class="filter-link" asp-controller="Weapons" asp-action="FilterIndex">Filter by attachment</a>
+        </div>
+
+        <div class="weapon-zone">
+            @{
+                int i = 0;
+                string name = string.Empty;
+            }
+            @foreach (var weapon in Model)
+            {
+                name = weapon.Key;
+                @if (i % 5 == 0)
+                {
+                    <div class="line-break"></div>
+                }
+
+                <a class="game-button-image" href="@Url.Action("ShowWeaponStats","Weapons",new {name})" type="submit">
+                    <img class="game-button" src="~/img/Weapons/@imageNames[i++]" />
+                    <div class="weapon-label">
+                        @weapon.Key
+                    </div>
+                </a>
+
+            }
+        </div>
+    </form>
 </body>
 </html>
 
